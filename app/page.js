@@ -6,7 +6,8 @@ export default function Home() {
     <div>
       <nav className="bg-gray-800 p-4">
         <div className="container mx-auto flex justify-between items-center">
-          <div className="text-white font-bold">Employee Voting</div>
+          <div className="text-white font-bold">VOTE FOR BETTER</div>
+          <div class="h-14 bg-gradient-to-r from-cyan-500 to-blue-500"></div>
           <div>
             <Link href="/admin">
               <div className="text-white hover:underline">Go to admin</div>
